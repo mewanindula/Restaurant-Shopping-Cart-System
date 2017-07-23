@@ -1,0 +1,41 @@
+*
+{
+	margin:0px;
+	padding:0px;
+}
+
+a
+{
+	text-decoration:inherit;
+	color:inherit;
+}
+
+body
+{
+	background:url(../Images/Background/Background.jpg)fixed no-repeat;
+	background-position:left;
+}
+
+#image
+{
+		margin-top:20px;
+		margin-left:25px;
+		position:fixed;
+}
+
+#base
+{
+	margin-top:10px;
+	margin-bottom:10px;
+}
+
+#structure
+{
+	table-layout:fixed;
+}
+
+#divTable
+{
+	width:800px;
+	height:auto;
+}

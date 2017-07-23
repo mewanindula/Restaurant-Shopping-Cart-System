@@ -1,0 +1,52 @@
+*
+{
+	margin:0px;
+	padding:0px;
+}
+
+body
+{
+	background:url(../Images/Background/Background.jpg);
+	float:left;
+}
+
+#main
+{
+	width:1500x;
+	overflow:hidden;
+	padding:10px;
+	margin:auto auto;
+}
+
+#sub1
+{
+	width:900px;
+	float:left;
+	background:transparent;
+}
+
+#sub2
+{
+	width:420px;
+	float:right;
+}
+
+
+#sub2 table
+{
+	border:0px;
+	width:350px;
+}
+
+#sub2 table td
+{
+	padding:5px;
+	width:auto;
+	text-align:left;
+	font-size:14px;
+}
+
+#sub2 table tr
+{
+	background-color:#d3dcf2;
+}
